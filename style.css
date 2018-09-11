@@ -1322,6 +1322,28 @@ table td.bck-td {
 	color: white;
 }
 /**/
+
+/*Desplegable 3*/
+.bck-dropdown.Klett_demo-dropdown-2 {
+	background-color: #9665AB;
+}
+
+.Klett_demo-dropdown-3 .bck-dropdown-icon {
+	background-color: #9665AB;
+}
+
+.Klett_demo-dropdown-3 .bck-dropdown-content {
+	background-color: #e5b7e4;
+}
+
+.edit .Klett_demo-dropdown-3 .bck-dropdown-content {
+	color: white;
+}
+/**/
+
+
+
+
 /****/
 
 @media screen and (max-width: 768px) {
