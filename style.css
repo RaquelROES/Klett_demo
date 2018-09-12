@@ -1323,28 +1323,32 @@ table td.bck-td {
 }
 
 .Klett_demo-dropdown .bck-dropdown-icon, .Klett_demo-dropdown-2 .bck-dropdown-icon {
-	color: white;
+	background-color: #fff;
+	color: #B51434;
 }
 
 .Klett_demo-dropdown .bck-dropdown-icon > .fa, .Klett_demo-dropdown-2 .bck-dropdown-icon > .fa {
 	border: 3px solid white;
 }
 
-.Klett_demo-dropdown .bck-dropdown-titulo, .Klett_demo-dropdown-2 .bck-dropdown-titulo{
-	color: white;
+.Klett_demo-dropdown .bck-dropdown-titulo, .Klett_demo-dropdown-2 .bck-dropdown-titulo, .Klett_demo-dropdown-3 .bck-dropdown-titulo {
+    color: #B51434;
 }
 
 /*Desplegable 1*/
 .bck-dropdown.Klett_demo-dropdown {
-	background-color: #FBA81C;
+	background-color: #fff;
+    color: #B51434;
 }
 
 .Klett_demo-dropdown .bck-dropdown-icon {
-	background-color: #FBA81C;
+	background-color: #fff;
+    color: #B51434;
 }
 
 .Klett_demo-dropdown .bck-dropdown-content {
-	background-color: #F2E7D1;
+	border: 1px #B51434 solid;
+    background: #fff;
 }
 
 /**/
