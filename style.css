@@ -325,6 +325,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 	text-align: left;
 	line-height:
 	border: none;
+	color: #fff;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdown button:focus {
