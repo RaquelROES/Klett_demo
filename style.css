@@ -400,11 +400,12 @@ body.is_app .Klett_demo-navbar.ocultar {
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 a {
 	font-size: 1.6rem;
-	font-weight: normal;
-	padding-left: 10px;
-	margin-left: 10px;
-	display: inline-block;
-	border-left: 1px dotted grey;
+    font-weight: normal;
+    padding: 0px 10px;
+    margin-left: 330px;
+    display: inline-block;
+    border: 1px solid #fff;
+    color: #fff;
 }
 
 .content_type_clase_Klett_demo .slider-indicators {
@@ -443,7 +444,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 
 .content_type_clase_Klett_demo .slider-indicators li.active,
 .content_type_clase_Klett_demo .Klett_demo-navbar li:hover {
-	background-color: #D9D2F1;
+	background-color: #b514349c;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdown {
