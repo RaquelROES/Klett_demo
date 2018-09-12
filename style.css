@@ -741,16 +741,17 @@ body.is_app .Klett_demo-navbar.ocultar {
 	z-index: 0;
 }
 
+#actividad .content .cke_contents .bck-ol-2 li:before,
 #actividad .content .texto_curso ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
-	content: counter(bck-li-counter, upper-alpha)'.-';
-	color: #9665AB;
-	font-size: 2.3rem;
-    margin-left: -32px;
+	content: "3 "counter(bck-li-counter, lower-alpha);
+    color: #000;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-left: -45px;
     margin-top: -1px;
     padding-right: 8px;
     text-align: left;
-}
 /**/
 
 /*Cajas*/
