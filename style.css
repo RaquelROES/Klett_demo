@@ -495,6 +495,11 @@ body.is_app .Klett_demo-navbar.ocultar {
 	font-size: 1.5rem;
 	overflow: auto;
 }
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .dropdown li a:hover {
+	background-color: #b514349c;
+}
+
 /**/
 
 /* Navigators */
