@@ -287,8 +287,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 	width: 100%;
 	left: 0;
 	z-index: 100;
-	background-color: #f2f2f2;
-	background: linear-gradient(to bottom, white, #f2f2f2);
+	background-color: #B51434;
 }
 
 body.is_app .Klett_demo-navbar {
@@ -367,9 +366,9 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 {
-	color: #9665AB;
+	color: #fff;
 	font-weight: 600;
-	font-size: 2.5rem;
+	font-size: 37px;
 	margin-bottom: 0;
 	padding-top: 20px;
 	padding-left: 60px;
@@ -378,6 +377,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 	height: 80px;
     vertical-align: middle;
     display: table-cell;
+    font-family: "POLOST11K-KRFTG";
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 #nombre-tema-wrapper {
