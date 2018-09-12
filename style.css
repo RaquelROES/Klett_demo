@@ -1318,6 +1318,10 @@ table td.bck-td {
 
 /**Dropdown**/
 
+.bck-dropdown-icon>.fa {
+     color: #B51434;
+   }
+
 .bck-dropdown-titulo {
 	 color: #B51434;
 	}
