@@ -1400,24 +1400,58 @@ table td.bck-td {
     background: #fff;
 }
 
+.bck-dropdown-2.Klett_demo-dropdown .fa-chevron-up:before {
+    vertical-align: sub;
+    content: "G";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
+
+.bck-dropdown-2.Klett_demo-dropdown .fa-chevron-down:before {
+	vertical-align: sub;
+    content: "G";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
 
 /**/
 
 /*Desplegable 3*/
-.bck-dropdown.Klett_demo-dropdown-2 {
+.bck-dropdown.Klett_demo-dropdown-3 {
 	background-color: #fff;
     color: #B51434;
 }
 
-.Klett_demo-dropdown-2 .bck-dropdown-icon {
+.Klett_demo-dropdown-3 .bck-dropdown-icon {
 	background-color: #fff;
     color: #B51434;
 }
 
-.Klett_demo-dropdown-2 .bck-dropdown-content {
+.Klett_demo-dropdown-3 .bck-dropdown-content {
 	border: 1px #B51434 solid;
     background: #fff;
 }
+
+.bck-dropdown-3.Klett_demo-dropdown .fa-chevron-up:before {
+    vertical-align: sub;
+    content: "i";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
+
+.bck-dropdown-3.Klett_demo-dropdown .fa-chevron-down:before {
+	vertical-align: sub;
+    content: "i";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
+
+
+
 
 /**/
 
