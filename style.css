@@ -1395,6 +1395,7 @@ table td.bck-td {
 .Klett_demo-dropdown-2 .bck-dropdown-content {
 	border: 1px #B51434 solid;
     background: #fff;
+    margin-left: 50px;
 }
 
 .bck-dropdown.Klett_demo-dropdown-2.fa-chevron-up:before {
@@ -1402,7 +1403,7 @@ table td.bck-td {
     content: "G";
     color: #fff;
     background: #B51434;
-    padding: 2px 8px;
+    padding: 2px 4px;
     font-family: sans-serif;
 }
 
@@ -1411,7 +1412,7 @@ table td.bck-td {
     content: "G";
     color: #fff;
     background: #B51434;
-    padding: 2px 8px;
+    padding: 2px 4px;
     font-family: sans-serif;
 }
 
@@ -1431,6 +1432,7 @@ table td.bck-td {
 .Klett_demo-dropdown-3 .bck-dropdown-content {
 	border: 1px #B51434 solid;
     background: #fff;
+    margin-left: 50px;
 }
 
 .bck-dropdown.Klett_demo-dropdown-3 .fa-chevron-up:before {
