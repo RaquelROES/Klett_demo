@@ -337,8 +337,8 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content {
-	max-width: 1160px;
-	margin: 0 20px;
+	max-width: 1024px;
+    margin: auto;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdownTemas {
