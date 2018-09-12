@@ -1400,7 +1400,7 @@ table td.bck-td {
     margin-left: 50px;
 }
 
-.bck-dropdown.Klett_demo-dropdown-2.fa-chevron-up:before {
+.bck-dropdown.Klett_demo-dropdown-2 .fa-chevron-up:before {
     vertical-align: sub;
     content: "G";
     color: #fff;
@@ -1409,7 +1409,7 @@ table td.bck-td {
     font-family: sans-serif;
 }
 
-.bck-dropdown.Klett_demo-dropdown-2.fa-chevron-down:before {
+.bck-dropdown.Klett_demo-dropdown-2 .fa-chevron-down:before {
 	vertical-align: sub;
     content: "G";
     color: #fff;
