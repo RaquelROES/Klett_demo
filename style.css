@@ -1364,6 +1364,7 @@ table td.bck-td {
 .Klett_demo-dropdown .bck-dropdown-content {
 	border: 1px #B51434 solid;
     background: #fff;
+    margin-left: 50px;
 }
 
 .bck-dropdown.Klett_demo-dropdown .fa-chevron-up:before {
