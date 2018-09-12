@@ -1340,6 +1340,8 @@ table td.bck-td {
     padding: 10px;
     border: 1px #B51434 solid;
     background: #fff;
+    margin-left: 50px;
+
 }
 
 .Klett_demo-dropdown .bck-dropdown-titulo, .Klett_demo-dropdown-2 .bck-dropdown-titulo, .Klett_demo-dropdown-3 .bck-dropdown-titulo {
@@ -1349,7 +1351,7 @@ table td.bck-td {
 /*Desplegable 1*/
 .bck-dropdown.Klett_demo-dropdown {
 	background-color: #fff;
-    color: #B51434;
+   
 }
 
 .Klett_demo-dropdown .bck-dropdown-icon {
@@ -1384,7 +1386,7 @@ table td.bck-td {
 /*Desplegable 2*/
 .bck-dropdown.Klett_demo-dropdown-2 {
 	background-color: #fff;
-    color: #B51434;
+    
 }
 
 .Klett_demo-dropdown-2 .bck-dropdown-icon {
@@ -1407,7 +1409,7 @@ table td.bck-td {
     font-family: sans-serif;
 }
 
-.bck-dropdown.Klett_demo-dropdown-2 .fa-chevron-down:before {
+.bck-dropdown.Klett_demo-dropdown-2.fa-chevron-down:before {
 	vertical-align: sub;
     content: "G";
     color: #fff;
@@ -1421,7 +1423,7 @@ table td.bck-td {
 /*Desplegable 3*/
 .bck-dropdown.Klett_demo-dropdown-3 {
 	background-color: #fff;
-    color: #B51434;
+    
 }
 
 .Klett_demo-dropdown-3 .bck-dropdown-icon {
@@ -1492,4 +1494,3 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
-
