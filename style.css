@@ -339,7 +339,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content {
 	max-width: 1160px;
 	margin: 0 20px;
-	border-bottom: 1px solid #9665AB;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdownTemas {
@@ -377,7 +376,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 	height: 80px;
     vertical-align: middle;
     display: table-cell;
-    font-family: MinionPro-Regular;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 #nombre-tema-wrapper {
@@ -385,6 +383,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 #courseIndex {
+	display: none;
 	background-color: #9665AB;
     font-size: 4rem;
     color: white;
