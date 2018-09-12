@@ -1315,6 +1315,12 @@ table td.bck-td {
 
 /**Dropdown**/
 
+.bck-dropdown-button {
+    padding: 0px;
+    margin-left: -5px;
+}
+
+
 .bck-dropdown-icon>.fa {
      color: #B51434;
      border: 0px;
