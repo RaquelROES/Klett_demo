@@ -752,9 +752,12 @@ body.is_app .Klett_demo-navbar.ocultar {
     margin-top: -1px;
     padding-right: 8px;
     text-align: left;
+}
+
 /**/
 
 /*Cajas*/
+
 .bck-box {
 	max-width: 100%;
 	margin-bottom: 20px;
