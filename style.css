@@ -332,7 +332,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdown .caret {
-	border-color: black transparent transparent transparent;
+	border-color: #fff transparent transparent transparent;
 	margin-left: 10px;
 }
 
