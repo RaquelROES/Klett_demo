@@ -1,3 +1,44 @@
+/* Fonts */
+
+	@font-face {
+	  font-family: EUROPEANPISTD-3;
+	  src: url(fonts/EUROPEANPISTD-3.OTF);
+	  font-weight: 100;
+	}
+
+
+@font-face {
+	  font-family: MinionPro-Regular;
+	  src: url(fonts/MinionPro-Regular.otf);
+	  font-weight: 100;
+	}
+
+
+@font-face {
+	  font-family: POLOST11K-BUCH;
+	  src: url(fonts/POLOST11K-BUCH.PFM);
+	  font-weight: 100;
+	}
+
+@font-face {
+	  font-family: POLOST11K-HFETT;
+	  src: url(fonts/POLOST11K-HFETT.PFM);
+	  font-weight: 100;
+	}
+
+@font-face {
+	  font-family: POLOST11K-KRFTG;
+	  src: url(fonts/POLOST11K-KRFTG.PFM);
+	  font-weight: 100;
+	}
+
+@font-face {
+	  font-family: POLOST11K-LEICHT;
+	  src: url(fonts/POLOST11K-LEICHT.PFM);
+	  font-weight: 100;
+	}
+
+
 /*General */
 .body_clase .content-wrapper {
 	padding-top: 130px;
