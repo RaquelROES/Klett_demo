@@ -1366,6 +1366,22 @@ table td.bck-td {
     background: #fff;
 }
 
+.bck-dropdown.Klett_demo-dropdown .fa-chevron-up:before {
+    vertical-align: sub;
+    content: "\f12a";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
+
+.bck-dropdown.Klett_demo-dropdown .fa-chevron-down:before {
+	vertical-align: sub;
+    content: "\f12a";
+    color: #fff;
+    background: #B51434;
+    padding: 2px 8px;
+}
+
 /**/
 
 /*Desplegable 2*/
