@@ -1320,6 +1320,7 @@ table td.bck-td {
 
 .bck-dropdown-icon>.fa {
      color: #B51434;
+     border: 0px;
    }
 
 .bck-dropdown-titulo {
@@ -1333,6 +1334,15 @@ table td.bck-td {
 .Klett_demo-dropdown .bck-dropdown-icon, .Klett_demo-dropdown-2 .bck-dropdown-icon {
 	background-color: #fff;
 	color: #B51434;
+}
+
+.bck-dropdown-content {
+    overflow-y: auto;
+    display: none;
+    max-height: 300px;
+    padding: 10px;
+    border: 1px #B51434 solid;
+    background: #fff;
 }
 
 .Klett_demo-dropdown .bck-dropdown-titulo, .Klett_demo-dropdown-2 .bck-dropdown-titulo, .Klett_demo-dropdown-3 .bck-dropdown-titulo {
