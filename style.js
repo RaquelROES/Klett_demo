@@ -28,7 +28,13 @@
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista Ordenada 3', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
-				{ name: 'Lista Ordenada 4', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				{ name: 'Lista Ordenada 5', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-7' } },
+				{ name: 'Lista Ordenada 7', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
+				{ name: 'Lista Ordenada 8', element: 'ol', attributes: { 'class': 'bck-ol-9' } },
+				{ name: 'Lista Ordenada 9', element: 'ol', attributes: { 'class': 'bck-ol-10' } },
+				{ name: 'Lista Ordenada 10', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
+				{ name: 'Lista Ordenada 11', element: 'ol', attributes: { 'class': 'bck-ol-12' } },
 
 
 				{ name: 'Caja simple', type: 'widget', widget: 'blink_box', attributes: { 'class': 'simple' } },
