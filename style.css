@@ -970,7 +970,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-11 li:before,
 #actividad .content .texto_curso ol.bck-ol-11 li:before,
 #actividad .content .workspace ul li ol.bck-ol-11 li:before {
-	content: "5 "counter(bck-li-counter, lower-alpha);
+	content: "10 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
@@ -999,7 +999,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-12 li:before,
 #actividad .content .texto_curso ol.bck-ol-12 li:before,
 #actividad .content .workspace ul li ol.bck-ol-12 li:before {
-	content: "5 "counter(bck-li-counter, lower-alpha);
+	content: "11 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
