@@ -1739,7 +1739,7 @@ table td.bck-td {
     margin-left: 50px;
 }
 
-.bck-dropdown-4-titulo:before {
+.bck-dropdown.Klett_demo-dropdown-4 .bck-dropdown-titulo:before {
     content: "\f12a";
     color: #fff;
     background: #B51434;
