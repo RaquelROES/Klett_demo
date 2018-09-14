@@ -71,6 +71,7 @@
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'Klett_demo-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'Klett_demo-dropdown-2' } },
 				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'Klett_demo-dropdown-3' } },
+				{ name: 'Desplegable 4', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'Klett_demo-dropdown-4' } },
 
 				{ name: 'Imagen Sin Bordes', type: 'widget', widget: 'image', attributes: { 'class': 'normal-img' } },
 				{ name: 'Imagen derecha', element: 'img', attributes: { 'class': 'bck-img right' } },
