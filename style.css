@@ -228,6 +228,11 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 #indice .unit-content .actividades .item:not(.nivel_1) .title{font-size: 1.5rem;}
 
+#indice .unit-content .header .title {
+    margin: 20px 40px 20px 30px;
+}
+
+
 /**/
 
 /* NAVBAR (Breadcums) */
@@ -461,7 +466,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar .dropdown li a:hover {
-	background-color: #b514349c;
+	background-color: #e5e5e5;
 }
 
 /**/
