@@ -193,9 +193,7 @@ fieldset[disabled] .content_type_clase_Klett_demo .slide_main input {
 }
 
 #indice .unit-content .header.default {
-	background-image: url(../../../images/libro/transparente.png) ! important;
-	background-color: #b71d4a;
-}
+	background: #b71d4a !important;
 
 #indice .units ul li a .number {
 	width: 0px;
