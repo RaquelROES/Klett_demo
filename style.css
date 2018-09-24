@@ -1489,6 +1489,7 @@ table td.bck-td {
 .btn-save[disabled], .btn-save[disabled]:focus {
     background: #14618c;
     border-color: transparent;
+    opacity: 1;
 }
 
 /**/
