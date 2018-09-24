@@ -1492,6 +1492,11 @@ table td.bck-td {
     opacity: 1;
 }
 
+#actividad .content .review .attemps span {
+    background-color: #14618c;
+
+}
+
 /**/
 
 /* Seccion Actividades */
@@ -1820,4 +1825,3 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
-
