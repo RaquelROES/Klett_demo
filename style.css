@@ -1473,6 +1473,24 @@ table td.bck-td {
     background-color: #9665AB;
 }
 
+.btn-primary[disabled], .btn-primary[disabled]:focus {
+    color: #fff;
+    background-color: #85c939;
+    border-color: transparent;
+    border-radius: 22px;
+}
+
+.btn-danger, .btn-danger[disabled] {
+    color: #fff;
+    background-color: #14618c;
+    border-color: transparent;
+}
+
+.btn-save[disabled], .btn-save[disabled]:focus {
+    background: #14618c;
+    border-color: transparent;
+}
+
 /**/
 
 /* Seccion Actividades */
