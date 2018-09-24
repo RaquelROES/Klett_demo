@@ -1503,6 +1503,13 @@ table td.bck-td {
     border-color: transparent;
 }
 
+
+.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
+    color: #fff;
+    background-color: #14618c;
+    border-color: transparent;
+}
+
 /**/
 
 /* Seccion Actividades */
@@ -1831,4 +1838,3 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
-
