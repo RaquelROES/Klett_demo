@@ -1497,6 +1497,12 @@ table td.bck-td {
 
 }
 
+.btn-solution, .btn-solution.disabled, .btn-solution[disabled], .btn-next, .btn-next.disabled, .btn-next[disabled] {
+    color: #fff;
+    background-color: #85c939;
+    border-color: transparent;
+}
+
 /**/
 
 /* Seccion Actividades */
