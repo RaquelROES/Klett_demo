@@ -194,8 +194,9 @@ fieldset[disabled] .content_type_clase_Klett_demo .slide_main input {
 
 #indice .unit-content .header.default {
 	background: #b71d4a !important;
+}
 
-#indice .units ul li a .number {
+#indice .units ul linumber{
 	width: 0px;
 	visibility: hidden;
 	margin: 0px;
@@ -1795,4 +1796,3 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
-	
