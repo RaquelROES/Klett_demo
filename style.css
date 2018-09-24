@@ -183,12 +183,12 @@ fieldset[disabled] .content_type_clase_Klett_demo .slide_main input {
 /* CURSO */
 
 #indice .unit-content {
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 #indice .unit-content .header {
-	border: 2px solid #9665AB;
-    border-radius: 20px;
+    border: 0px;
+    border-radius: 0px;
     border-bottom-right-radius: 0px;
 }
 
@@ -204,13 +204,19 @@ fieldset[disabled] .content_type_clase_Klett_demo .slide_main input {
 }
 
 #indice .units ul li {
+	 border-radius: 0px;
+    background: #cbcbcb;
 	background: #cbcbcb;
 }
 
 #indice .units ul li.active:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background: #9665AB;
+	background: #b71d4a;
+	border-radius: 0px;
+   border-left: 10px solid #fff;
+   color: #fff;
+    font-weight: 600;
 }
 
 #indice .units ul li:not(.add) a .title {
@@ -1453,7 +1459,13 @@ table td.bck-td {
     background: white;
 }
 
-.btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
+.btn-primary, .btn-primary.disabled{
+	background-color: #B51434;
+    border-radius: 0px;
+}
+
+
+ .btn-primary.disabled:focus {
     background-color: #9665AB;
 }
 
@@ -1667,10 +1679,10 @@ table td.bck-td {
 }
 
 .bck-dropdown.Klett_demo-dropdown-2 .fa-chevron-up:before {
-    vertical-align: sub;
+      vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #b71d4a;
+    background: #B51434;
     padding: 2px 4px;
     font-family: sans-serif;
 }
@@ -1679,7 +1691,7 @@ table td.bck-td {
 	vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #b71d4a;
+    background: #B51434;
     padding: 2px 4px;
     font-family: sans-serif;
 }
