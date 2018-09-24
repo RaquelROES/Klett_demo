@@ -194,7 +194,7 @@ fieldset[disabled] .content_type_clase_Klett_demo .slide_main input {
 
 #indice .unit-content .header.default {
 	background-image: url(../../../images/libro/transparente.png) ! important;
-	background-color: #7aac39;
+	background-color: #b71d4a;
 }
 
 #indice .units ul li a .number {
@@ -246,7 +246,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 	width: 100%;
 	left: 0;
 	z-index: 100;
-	background-color: #B51434;
+	background-color: #b71d4a;
 }
 
 body.is_app .Klett_demo-navbar {
@@ -588,7 +588,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 
 .bck-title2 {
    color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     width: fit-content;
     font-size: 13pt;
     font-weight: bold;
@@ -1070,7 +1070,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .bck-box.simple .bck-title {
-    background-color: #B51434;
+    background-color: #b71d4a;
     color: #fff;
     font-weight: bold;
     display: inline-block;
@@ -1582,12 +1582,12 @@ table td.bck-td {
 
 
 .bck-dropdown-icon>.fa {
-     color: #B51434;
+     color: #b71d4a;
      border: 0px;
    }
 
 .bck-dropdown-titulo {
-	 color: #B51434;
+	 color: #b71d4a;
 	}
 
 .bck-dropdown {
@@ -1596,7 +1596,7 @@ table td.bck-td {
 
 .Klett_demo-dropdown .bck-dropdown-icon, .Klett_demo-dropdown-2 .bck-dropdown-icon {
 	background-color: #fff;
-	color: #B51434;
+	color: #b71d4a;
 }
 
 .bck-dropdown-content {
@@ -1604,14 +1604,14 @@ table td.bck-td {
     display: none;
     max-height: 300px;
     padding: 10px;
-    border: 1px #B51434 solid;
+    border: 1px #b71d4a solid;
     background: #fff;
     margin-left: 50px;
 
 }
 
 .Klett_demo-dropdown .bck-dropdown-titulo, .Klett_demo-dropdown-2 .bck-dropdown-titulo, .Klett_demo-dropdown-3 .bck-dropdown-titulo {
-    color: #B51434;
+    color: #b71d4a;
 }
 
 /*Desplegable 1*/
@@ -1622,11 +1622,11 @@ table td.bck-td {
 
 .Klett_demo-dropdown .bck-dropdown-icon {
 	background-color: #fff;
-    color: #B51434;
+    color: #b71d4a;
 }
 
 .Klett_demo-dropdown .bck-dropdown-content {
-	border: 1px #B51434 solid;
+	border: 1px #b71d4a solid;
     background: #fff;
     margin-left: 50px;
 }
@@ -1635,7 +1635,7 @@ table td.bck-td {
     vertical-align: sub;
     content: "\f12a";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 8px;
 }
 
@@ -1643,7 +1643,7 @@ table td.bck-td {
 	vertical-align: sub;
     content: "\f12a";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 8px;
 }
 
@@ -1657,11 +1657,11 @@ table td.bck-td {
 
 .Klett_demo-dropdown-2 .bck-dropdown-icon {
 	background-color: #fff;
-    color: #B51434;
+    color: #b71d4a;
 }
 
 .Klett_demo-dropdown-2 .bck-dropdown-content {
-	border: 1px #B51434 solid;
+	border: 1px #b71d4a solid;
     background: #fff;
     margin-left: 50px;
 }
@@ -1670,7 +1670,7 @@ table td.bck-td {
     vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 4px;
     font-family: sans-serif;
 }
@@ -1679,7 +1679,7 @@ table td.bck-td {
 	vertical-align: sub;
     content: "G";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 4px;
     font-family: sans-serif;
 }
@@ -1694,11 +1694,11 @@ table td.bck-td {
 
 .Klett_demo-dropdown-3 .bck-dropdown-icon {
 	background-color: #fff;
-    color: #B51434;
+    color: #b71d4a;
 }
 
 .Klett_demo-dropdown-3 .bck-dropdown-content {
-	border: 1px #B51434 solid;
+	border: 1px #b71d4a solid;
     background: #fff;
     margin-left: 50px;
 }
@@ -1707,7 +1707,7 @@ table td.bck-td {
     vertical-align: sub;
     content: "i";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 8px;
     font-family: sans-serif;
 }
@@ -1716,7 +1716,7 @@ table td.bck-td {
 	vertical-align: sub;
     content: "i";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 8px;
     font-family: sans-serif;
 }
@@ -1730,11 +1730,11 @@ table td.bck-td {
 
 .Klett_demo-dropdown-4 .bck-dropdown-icon {
     background-color: #fff;
-    color: #B51434;
+    color: #b71d4a;
 }
 
 .Klett_demo-dropdown-4 .bck-dropdown-content {
-    border: 1px #B51434 solid;
+    border: 1px #b71d4a solid;
     background: #fff;
     margin-left: 50px;
 }
@@ -1742,7 +1742,7 @@ table td.bck-td {
 .bck-dropdown.Klett_demo-dropdown-4 .bck-dropdown-titulo:before {
     content: "\f12a";
     color: #fff;
-    background: #B51434;
+    background: #b71d4a;
     padding: 2px 8px;
     font-family: 'FontAwesome';
     font-size: 12pt;
