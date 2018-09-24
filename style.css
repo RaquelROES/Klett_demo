@@ -1463,7 +1463,7 @@ table td.bck-td {
     background: white;
 }
 
-.btn-primary, .btn-primary.disabled{
+.btn-primary.disabled{
 	background-color: #B51434;
     border-radius: 0px;
 }
