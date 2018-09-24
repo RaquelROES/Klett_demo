@@ -1463,62 +1463,7 @@ table td.bck-td {
     background: white;
 }
 
-.btn-primary.disabled{
-	background-color: #B51434;
-    border-radius: 0px;
-}
 
-
- .btn-primary.disabled:focus {
-    background-color: #9665AB;
-}
-
-.btn-primary,.btn-primary:hover, .btn-primary[disabled]:focus {
-    color: #fff;
-    background-color: #999;
-    border-color: transparent;
-    border-radius: 22px;
-}
-
-.btn-danger, .btn-danger[disabled] {
-    color: #fff;
-    background-color: #14618c;
-    border-color: transparent;
-}
-
-.btn-save[disabled], .btn-save[disabled]:focus {
-    background: #14618c;
-    border-color: transparent;
-    opacity: 1;
-}
-
-#actividad .content .review .attemps span {
-    background-color: #14618c;
-
-}
-
-.btn-solution, .btn-solution.disabled, .btn-solution[disabled], .btn-next, .btn-next.disabled, .btn-next[disabled] {
-    color: #fff;
-    background-color: #85c939;
-    border-color: transparent;
-}
-
-
-.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
-    color: #fff;
-    background-color: #14618c;
-    border-color: transparent;
-}
-
-.btn-solution:hover, .btn-solution:focus, .btn-solution:active, .btn-next:hover, .btn-next:focus, .btn-next:active, .open .dropdown-toggle.btn-solution {
-    color: #fff;
-    background-color: #85c939;
-    border-color: transparent;
-}
-
-.btn-primary[disabled]{
-     background-color: #14618c;	
-}
 
 /**/
 
