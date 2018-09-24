@@ -1475,7 +1475,7 @@ table td.bck-td {
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
     color: #fff;
-    background-color: #85c939;
+    background-color: #999;
     border-color: transparent;
     border-radius: 22px;
 }
