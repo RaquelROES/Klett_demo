@@ -1510,6 +1510,12 @@ table td.bck-td {
     border-color: transparent;
 }
 
+.btn-solution:hover, .btn-solution:focus, .btn-solution:active, .btn-next:hover, .btn-next:focus, .btn-next:active, .open .dropdown-toggle.btn-solution {
+    color: #fff;
+    background-color: #85c939;
+    border-color: transparent;
+}
+
 /**/
 
 /* Seccion Actividades */
