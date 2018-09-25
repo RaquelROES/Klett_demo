@@ -582,12 +582,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 	text-align: center;
 }
 
-#actividad .player.audio {
-	background-image: url(audio_icon.png);
-	background-size: 100%;
-	background-position: 0;
-	background-color: transparent;
-}
+
 
 .bck-title1 {
     color: #464646;
