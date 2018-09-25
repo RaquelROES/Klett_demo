@@ -161,7 +161,7 @@
 
             for (var index = 0; index < window.secuencia.length; index++) {
                 var slide = eval('t'+index+'_slide'),
-                    slideTitle = slide.title,
+                    slideTitle = slide.title.replace(/<span class="index">+<\/span>/g, ''),
                     textIndice = stripHTML(slideTitle),
                     clase = '';
 
@@ -223,7 +223,7 @@
                     if (title && units[i].subunits.length) { //Si el tema tiene actividades
                         dropDownTemas += '' +
                             '<li role="presentation" class="lista-temas" data-url="' + units[i].subunits[0].url + '">' +
-                                '<span>'+ units[i].number + '</span><a role="menuitem">' + title + '</a>' +
+                                '<a role="menuitem">' + title + '</a>' +
                             '</li>'
                         if (title == blink.courseInfo.unit) number = units[i].number;
                     }
