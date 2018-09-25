@@ -161,7 +161,7 @@
 
             for (var index = 0; index < window.secuencia.length; index++) {
                 var slide = eval('t'+index+'_slide'),
-                    slideTitle = slide.title.replace(/<span class="index">[\d]+<\/span>/g, ''),
+                    slideTitle = slide.title,
                     textIndice = stripHTML(slideTitle),
                     clase = '';
 
