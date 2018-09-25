@@ -1031,7 +1031,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-13 li:before,
 #actividad .content .texto_curso ol.bck-ol-13 li:before,
 #actividad .content .workspace ul li ol.bck-ol-13 li:before {
-	content: "11 "counter(bck-li-counter, lower-alpha);
+	content: "12 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
@@ -1060,7 +1060,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-14 li:before,
 #actividad .content .texto_curso ol.bck-ol-14 li:before,
 #actividad .content .workspace ul li ol.bck-ol-14 li:before {
-	content: "11 "counter(bck-li-counter, lower-alpha);
+	content: "13 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
@@ -1089,7 +1089,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-15 li:before,
 #actividad .content .texto_curso ol.bck-ol-15 li:before,
 #actividad .content .workspace ul li ol.bck-ol-15 li:before {
-	content: "11 "counter(bck-li-counter, lower-alpha);
+	content: "14 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
@@ -1118,7 +1118,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-16 li:before,
 #actividad .content .texto_curso ol.bck-ol-16 li:before,
 #actividad .content .workspace ul li ol.bck-ol-16 li:before {
-	content: "11 "counter(bck-li-counter, lower-alpha);
+	content: "15 "counter(bck-li-counter, lower-alpha);
     color: #000;
     font-size: 11pt;
     font-weight: bold;
