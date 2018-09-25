@@ -1012,6 +1012,122 @@ body.is_app .Klett_demo-navbar.ocultar {
     text-align: left;
 }
 
+/*lista 12*/
+
+#actividad .content .texto_curso .bck-ol-13,
+#actividad .content .workspace ul li .bck-ol-13 {
+	list-style-type: none;
+	 counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-13 li,
+#actividad .content .workspace ul li .bck-ol-13 li {
+	counter-increment: bck-li-counter;
+	padding-left: 4px;
+	position: relative;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-13 li:before,
+#actividad .content .texto_curso ol.bck-ol-13 li:before,
+#actividad .content .workspace ul li ol.bck-ol-13 li:before {
+	content: "11 "counter(bck-li-counter, lower-alpha);
+    color: #000;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-left: -45px;
+    margin-top: -1px;
+    padding-right: 8px;
+    text-align: left;
+}
+
+/*lista 13*/
+
+#actividad .content .texto_curso .bck-ol-14,
+#actividad .content .workspace ul li .bck-ol-14 {
+	list-style-type: none;
+	 counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-14 li,
+#actividad .content .workspace ul li .bck-ol-14 li {
+	counter-increment: bck-li-counter;
+	padding-left: 4px;
+	position: relative;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-14 li:before,
+#actividad .content .texto_curso ol.bck-ol-14 li:before,
+#actividad .content .workspace ul li ol.bck-ol-14 li:before {
+	content: "11 "counter(bck-li-counter, lower-alpha);
+    color: #000;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-left: -45px;
+    margin-top: -1px;
+    padding-right: 8px;
+    text-align: left;
+}
+
+/*lista 14*/
+
+#actividad .content .texto_curso .bck-ol-15,
+#actividad .content .workspace ul li .bck-ol-15 {
+	list-style-type: none;
+	 counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-15 li,
+#actividad .content .workspace ul li .bck-ol-15 li {
+	counter-increment: bck-li-counter;
+	padding-left: 4px;
+	position: relative;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-15 li:before,
+#actividad .content .texto_curso ol.bck-ol-15 li:before,
+#actividad .content .workspace ul li ol.bck-ol-15 li:before {
+	content: "11 "counter(bck-li-counter, lower-alpha);
+    color: #000;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-left: -45px;
+    margin-top: -1px;
+    padding-right: 8px;
+    text-align: left;
+}
+
+/*lista 15*/
+
+#actividad .content .texto_curso .bck-ol-16,
+#actividad .content .workspace ul li .bck-ol-16 {
+	list-style-type: none;
+	 counter-reset: bck-li-counter;
+}
+
+#actividad .content .texto_curso .bck-ol-16 li,
+#actividad .content .workspace ul li .bck-ol-16 li {
+	counter-increment: bck-li-counter;
+	padding-left: 4px;
+	position: relative;
+	z-index: 0;
+}
+
+#actividad .content .cke_contents .bck-ol-16 li:before,
+#actividad .content .texto_curso ol.bck-ol-16 li:before,
+#actividad .content .workspace ul li ol.bck-ol-16 li:before {
+	content: "11 "counter(bck-li-counter, lower-alpha);
+    color: #000;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-left: -45px;
+    margin-top: -1px;
+    padding-right: 8px;
+    text-align: left;
+}
+
 /**/
 
 /*Cajas*/
