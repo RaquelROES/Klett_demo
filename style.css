@@ -628,19 +628,18 @@ body.is_app .Klett_demo-navbar.ocultar {
 	list-style: none;
 }
 
-#actividad .content .texto_curso ul li:before,
-#actividad .content .workspace ul li ul li:before,{
-	content: "";
-    position: absolute;
-	height: 6px;
-    width: 6px;
+.texto_curso ul li:before,
+.workspace ul li ul li:before,
+.cke_contents ul li:before, 
+.preview ul li:before,
+.classify-item ul li:before,
+ #actividad .workspace.multiple-choice .js-item ul li:before,
+ #actividad .workspace.matching .box ul li:before, 
+ #actividad .workspace.ordenar .js-rank-item ul li:before {
     background-color: #b71d4a;
-    margin-top: 12px;
-    margin-left: -15px;
-	margin-right: 7px;
-	margin-bottom: 2px;
-	border-radius: 50%;
+    border-radius: 50%;
 }
+
 
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before {
@@ -653,6 +652,7 @@ body.is_app .Klett_demo-navbar.ocultar {
     margin-left: -15px;
 	margin-right: 7px;
 	margin-bottom: 2px;
+	border-radius: 0%;
 }
 
 #actividad .content .texto_curso  ul.bck-ul-2 li,
