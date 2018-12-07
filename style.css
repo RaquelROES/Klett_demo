@@ -626,6 +626,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 
 #actividad .content ul.bck-ul li {
 	list-style: none;
+	margin-left: 15px;
 }
 
 .texto_curso ul li:before,
@@ -1640,4 +1641,3 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
-
