@@ -689,6 +689,8 @@ body.is_app .Klett_demo-navbar.ocultar {
 
 /*listas ordenada*/
 .content ol li, .cke_contents ol li {
+    font-size: 13pt;
+    font-weight: bold;
     counter-increment: bck-li-counter 1;
     position: relative;
     padding-left: 0px;
@@ -749,7 +751,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
 	content: "1 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
+    
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -778,7 +780,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-4 li:before {
 	content: "2 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
+    
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -812,7 +814,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: "3 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -845,7 +846,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-5 li:before {
 	content: "4 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -877,7 +877,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-6 li:before {
 	content: "5 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -911,7 +910,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-7 li:before {
 	content: "6 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -945,7 +943,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-8 li:before {
 	content: "7 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -978,7 +975,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	content: "8 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1011,7 +1007,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-10 li:before {
 	content: "9 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1047,7 +1042,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-11 li:before {
 	content: "10 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1082,7 +1076,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-12 li:before {
 	content: "11 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1116,7 +1109,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-13 li:before {
 	content: "12 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1151,7 +1143,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-14 li:before {
 	content: "13 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1184,7 +1175,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-15 li:before {
 	content: "14 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1218,7 +1208,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .workspace ul li ol.bck-ol-16 li:before {
 	content: "15 "counter(bck-li-counter, lower-alpha);
     color: #000;
-    font-size: 11pt;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1571,12 +1560,6 @@ table td.bck-td {
     background: #b71d4a;
     padding: 0px 8px 4px;
 }
-
-
-
-
-
-
 
 
 @media screen and (max-width: 768px) {
