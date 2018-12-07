@@ -1486,7 +1486,7 @@ table td.bck-td {
 
 .bck-dropdown.Klett_demo-dropdown .fa-chevron-up:before {
     vertical-align: sub;
-    content: "\f12a";
+    content: "!";
     color: #fff;
     background: #b71d4a;
     padding: 2px 8px;
@@ -1494,7 +1494,7 @@ table td.bck-td {
 
 .bck-dropdown.Klett_demo-dropdown .fa-chevron-down:before {
 	vertical-align: sub;
-    content: "\f12a";
+    content: "!";
     color: #fff;
     background: #b71d4a;
     padding: 2px 8px;
@@ -1558,7 +1558,7 @@ table td.bck-td {
 
 .bck-dropdown.Klett_demo-dropdown-3 .fa-chevron-up:before {
     vertical-align: sub;
-    content: "i";
+    content: "¡";
     color: #fff;
     background: #b71d4a;
     padding: 2px 8px;
@@ -1567,7 +1567,7 @@ table td.bck-td {
 
 .bck-dropdown.Klett_demo-dropdown-3 .fa-chevron-down:before {
 	vertical-align: sub;
-    content: "i";
+    content: "¡";
     color: #fff;
     background: #b71d4a;
     padding: 2px 8px;
@@ -1575,36 +1575,6 @@ table td.bck-td {
 }
 
 
-/*Desplegable 4*/
-.bck-dropdown.Klett_demo-dropdown-4 {
-	background-color: #fff;
-    
-}
-
-.Klett_demo-dropdown-4 .bck-dropdown-icon {
-    background-color: #fff;
-    color: #b71d4a;
-}
-
-.Klett_demo-dropdown-4 .bck-dropdown-content {
-    border: 1px #b71d4a solid;
-    background: #fff;
-    margin-left: 50px;
-}
-
-.bck-dropdown.Klett_demo-dropdown-4 .bck-dropdown-titulo:before {
-    content: "\f12a";
-    color: #fff;
-    background: #b71d4a;
-    padding: 2px 8px;
-    font-family: 'FontAwesome';
-    font-size: 12pt;
-    margin-right: 10px;
-}
-
-/**/
-
-/****/
 
 @media screen and (max-width: 768px) {
 
