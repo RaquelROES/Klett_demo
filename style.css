@@ -629,19 +629,30 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 #actividad .content .texto_curso ul li:before,
-#actividad .content .workspace ul li ul li:before,
+#actividad .content .workspace ul li ul li:before,{
+	content: "";
+    position: absolute;
+	height: 6px;
+    width: 6px;
+    background-color: #b71d4a;
+    margin-top: 12px;
+    margin-left: -15px;
+	margin-right: 7px;
+	margin-bottom: 2px;
+	border-radius: 50%;
+}
+
 #actividad .content .texto_curso .bck-ul li:before,
 #actividad .content .workspace ul li .bck-ul li:before {
 	content: "";
     position: absolute;
 	height: 6px;
     width: 6px;
-    background-color: #9665AB;
+    background-color: #b71d4a;
     margin-top: 12px;
     margin-left: -15px;
 	margin-right: 7px;
 	margin-bottom: 2px;
-	border-radius: 50%;
 }
 
 #actividad .content .texto_curso  ul.bck-ul-2 li,
