@@ -56,14 +56,10 @@
 
                 { name: 'Imagen Sin Bordes', type: 'widget', widget: 'image', attributes: { 'class': 'normal-img' } },
                 { name: 'Imagen derecha', element: 'img', attributes: { 'class': 'bck-img right' } },
-                { name: 'Imagen izquierda', element: 'img', attributes: { 'class': 'bck-img left' } },
-
-                
-
-                { name: 'icono ablink', element: 'span', attributes: { 'class': 'icono ablink' } },
-                { name: 'icono ascorm', element: 'span', attributes: { 'class': 'icono ascorm' } }
+                { name: 'Imagen izquierda', element: 'img', attributes: { 'class': 'bck-img left' } }
             ]
         },
+        
         slidesTitle: {},
 
         init: function () {
