@@ -93,7 +93,9 @@ input, button, select, textarea {
 
 .content_type_clase_Klett_demo #actividad .texto_curso li,
 .content_type_clase_Klett_demo #actividad .workspace ul li li {
-	margin-bottom: 10px;
+	padding-left: 0px;
+    list-style: none;
+    margin-bottom: 10px;
 }
 
 .content_type_clase_Klett_demo #actividad .texto_curso li:last-of-type,
@@ -683,7 +685,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 .content ol li:before, .cke_contents ol li:before {
     content: counter(bck-li-counter)' ';
     list-style-type: none;
-
+    margin-left: -43px;
 }
 
 
