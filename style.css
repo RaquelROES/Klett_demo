@@ -1299,9 +1299,8 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .bck-box.simple-2 {
-	background-color: rgba(255, 255, 255, 0.5);
-	border-radius: 10px;
-	text-align: left;
+	border: 1px solid #b71d4a;
+    text-align: left;
 }
 
 .bck-box.simple-2 > .bck-content {
@@ -1309,13 +1308,11 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .bck-box.simple-3 {
-	border: 3px solid #9665AB;
+	border: 2px solid #b71d4a;
 	border-radius: 20px;
 }
 
 /**/
-
-/*ENLACES*/
 
 
 /**TABLA**/
