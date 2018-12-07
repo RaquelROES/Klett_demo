@@ -1561,7 +1561,7 @@ table td.bck-td {
     content: "¡";
     color: #fff;
     background: #b71d4a;
-    padding: 2px 8px;
+    padding: 0px 8px 4px;
 }
 
 .bck-dropdown.Klett_demo-dropdown-3 .fa-chevron-down:before {
@@ -1569,8 +1569,15 @@ table td.bck-td {
     content: "¡";
     color: #fff;
     background: #b71d4a;
-    padding: 2px 8px;
+    padding: 0px 8px 4px;
 }
+
+
+
+
+
+
+
 
 @media screen and (max-width: 768px) {
 
