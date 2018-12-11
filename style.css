@@ -750,8 +750,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
 	content: "1 "counter(bck-li-counter, lower-alpha);
-    color: #000;
-    
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -778,9 +776,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .cke_contents .bck-ol-4 li:before,
 #actividad .content .texto_curso ol.bck-ol-4 li:before, #actividad .popover-content ol.bck-ol-4 li:before,
 #actividad .content .workspace ul li ol.bck-ol-4 li:before {
-	content: "2 "counter(bck-li-counter, lower-alpha);
-    color: #000;
-    
+	content: "2 "counter(bck-li-counter, lower-alpha); 
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -813,7 +809,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: "3 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -845,7 +840,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-5li:before,
 #actividad .content .workspace ul li ol.bck-ol-5 li:before {
 	content: "4 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -876,7 +870,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-6 li:before,
 #actividad .content .workspace ul li ol.bck-ol-6 li:before {
 	content: "5 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -909,7 +902,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-7 li:before,
 #actividad .content .workspace ul li ol.bck-ol-7 li:before {
 	content: "6 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -942,7 +934,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .popover-content ol.bck-ol-8 li:before,
 #actividad .content .workspace ul li ol.bck-ol-8 li:before {
 	content: "7 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -974,7 +965,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-9 li:before,
 #actividad .content .workspace ul li ol.bck-ol-9 li:before {
 	content: "8 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1006,7 +996,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-10 li:before,
 #actividad .content .workspace ul li ol.bck-ol-10 li:before {
 	content: "9 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1041,7 +1030,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-11 li:before,
 #actividad .content .workspace ul li ol.bck-ol-11 li:before {
 	content: "10 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1075,7 +1063,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-12 li:before,
 #actividad .content .workspace ul li ol.bck-ol-12 li:before {
 	content: "11 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1108,7 +1095,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-13 li:before,
 #actividad .content .workspace ul li ol.bck-ol-13 li:before {
 	content: "12 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1142,7 +1128,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-14 li:before,
 #actividad .content .workspace ul li ol.bck-ol-14 li:before {
 	content: "13 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1174,7 +1159,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-15 li:before,
 #actividad .content .workspace ul li ol.bck-ol-15 li:before {
 	content: "14 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
@@ -1207,7 +1191,6 @@ body.is_app .Klett_demo-navbar.ocultar {
 #actividad .content .texto_curso ol.bck-ol-16 li:before,
 #actividad .content .workspace ul li ol.bck-ol-16 li:before {
 	content: "15 "counter(bck-li-counter, lower-alpha);
-    color: #000;
     font-weight: bold;
     margin-left: -45px;
     margin-top: -1px;
