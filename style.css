@@ -1575,3 +1575,53 @@ table td.bck-td {
 		bottom:0 ;
 	}
 }
+
+
+@media screen and (max-width: 1024px) {
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content {
+    max-width: 825px;
+    margin: auto;
+}
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 a {
+    margin-left: 135px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content {
+    max-width: 730px;
+    margin: auto;
+}
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 a {
+    margin-left: 40px;
+}
+
+
+}
+@media screen and (max-width: 450px) {
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 {
+    font-size: 20px;
+}
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content h2 a {
+    display: none;
+}
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .dropdownTemas button {
+    margin-left: 10px;
+}
+
+.content_type_clase_Klett_demo .Klett_demo-navbar .navbar-content:before {
+    width: 115px !important;
+    background-size: contain !important;
+    margin-right: 5px;
+}
+
+#actividad .carousel-inner .class_slide {
+    padding: 5px 20px 0px;
+}
+
+}
