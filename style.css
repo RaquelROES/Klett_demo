@@ -594,11 +594,11 @@ body.is_app .Klett_demo-navbar.ocultar {
 }
 
 .bck-title2 {
-   color: #fff;
+    color: #fff;
     background: #b71d4a;
     width: fit-content;
-    font-size: 13pt;
-    font-weight: bold;
+    font-size: 17px;
+    font-weight: 600;
     position: relative;
     padding-left: 30px;
     padding-right: 15px;
