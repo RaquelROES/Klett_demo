@@ -282,6 +282,7 @@ body.is_app .Klett_demo-navbar.ocultar {
 	line-height: 3.5rem;
 	font-size: 1.9rem;
 	cursor: pointer;
+	font-weight: 300;
 }
 
 .content_type_clase_Klett_demo .Klett_demo-navbar li {
