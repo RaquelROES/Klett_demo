@@ -1355,6 +1355,10 @@ table td.bck-td {
 
 /**/
 
+/*audio*/
+#actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
+    background-color: #999;
+}
 
 
 /**iframe**/
@@ -1540,6 +1544,50 @@ table td.bck-td {
     color: #fff;
     background: #b71d4a;
     padding: 0px 8px 4px;
+}
+
+
+/*tipos de botones*/
+
+.btn-save[disabled], .btn-save[disabled]:focus {
+    opacity: 1;
+}
+
+.btn-danger{
+    background-color: #14618c;
+}
+
+#actividad .class_slide .review .btn-save[disabled]{
+    background-color: #14618c;
+}
+
+.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {
+    background-color: #14618c;
+}
+
+.btn-save{
+    background-color: #14618c;
+}
+
+#actividad .content .review .attemps span {
+     background-color: #14618c;
+}
+
+.btn-solution, .btn-solution.disabled, .btn-solution[disabled], .btn-next, .btn-next.disabled, .btn-next[disabled], .btn-solution:hover, .btn-solution:focus, .btn-solution:active, .btn-next:hover, .btn-next:focus, .btn-next:active, .open .dropdown-toggle.btn-solution {
+    background-color: #85c939;
+}
+
+#actividad .class_slide .review .btn-reset{
+     background-color: #999;
+}
+
+.btn-reset {
+     background-color: #999;
+}
+
+.btn-group .btn-primary.disabled {
+       background-color: #b71d4a ;
+      border-radius: 0px;
 }
 
 
